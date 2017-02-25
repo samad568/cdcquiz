@@ -1,1 +1,2 @@
-This is my first text file.
+This is my first text file.This is the new line
+\nThis is the new line
